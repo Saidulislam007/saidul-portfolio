@@ -47,7 +47,7 @@ const qualifications = [
       { label: "Discipline", value: "Mathematics" },
       { label: "Degree", value: "B.Sc. (Honours)" },
       { label: "Passing year", value: "2024" },
-      { label: "GPA", value: "3.08 / 5.00" },
+      { label: "GPA", value: "3.08 / 4.00" },
     ],
     summary:
       "Pure mathematics trained me to decompose complex real-world problems into structured logic, algorithmic models, and optimized system architectures—the analytical foundation I apply to software engineering today.",
