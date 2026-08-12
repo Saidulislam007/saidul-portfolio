@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title description">
+  <title id="title">KeenKeeper project placeholder</title>
+  <desc id="description">A friendship analytics dashboard ready to be replaced with a real project screenshot.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#35181f"/><stop offset="1" stop-color="#100a0c"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fda4af"/><stop offset="1" stop-color="#f9c4ca"/></linearGradient></defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <rect x="90" y="74" width="1420" height="852" rx="34" fill="#151014" stroke="#57313a"/>
+  <rect x="90" y="74" width="250" height="852" rx="34" fill="#1c1317"/>
+  <circle cx="155" cy="147" r="22" fill="#fda4af"/><text x="195" y="159" fill="#fff4f5" font-family="Arial" font-size="32" font-weight="700">KeenKeeper</text>
+  <g fill="#987c83" font-family="Arial" font-size="23"><text x="142" y="255">Dashboard</text><text x="142" y="315">Connections</text><text x="142" y="375">Interactions</text><text x="142" y="435">Insights</text></g>
+  <text x="400" y="154" fill="#fff4f5" font-family="Arial" font-size="38" font-weight="700">Relationship insights</text><text x="400" y="194" fill="#9d858b" font-family="Arial" font-size="20">A clear view of the people who matter most.</text>
+  <rect x="400" y="250" width="710" height="360" rx="22" fill="#20171b" stroke="#493038"/>
+  <text x="438" y="302" fill="#fff4f5" font-family="Arial" font-size="25" font-weight="700">Interaction activity</text>
+  <path d="M450 526 C535 488 580 532 645 455 S755 502 820 402 S945 454 1060 335" fill="none" stroke="url(#line)" stroke-width="9" stroke-linecap="round"/>
+  <path d="M450 526 C535 488 580 532 645 455 S755 502 820 402 S945 454 1060 335 L1060 570 L450 570Z" fill="#fda4af" opacity=".08"/>
+  <g fill="#fda4af" stroke="#20171b" stroke-width="8"><circle cx="450" cy="526" r="14"/><circle cx="645" cy="455" r="14"/><circle cx="820" cy="402" r="14"/><circle cx="1060" cy="335" r="14"/></g>
+  <rect x="1150" y="250" width="300" height="360" rx="22" fill="#20171b" stroke="#493038"/><text x="1185" y="302" fill="#fff4f5" font-family="Arial" font-size="25" font-weight="700">Your circle</text>
+  <g fill="#fda4af"><circle cx="1300" cy="420" r="64" opacity=".95"/><circle cx="1232" cy="359" r="38" opacity=".7"/><circle cx="1374" cy="360" r="42" opacity=".55"/><circle cx="1220" cy="490" r="45" opacity=".5"/><circle cx="1382" cy="495" r="34" opacity=".75"/></g>
+  <rect x="400" y="655" width="330" height="180" rx="22" fill="#20171b" stroke="#493038"/><rect x="760" y="655" width="330" height="180" rx="22" fill="#20171b" stroke="#493038"/><rect x="1120" y="655" width="330" height="180" rx="22" fill="#20171b" stroke="#493038"/>
+  <g font-family="Arial"><text x="435" y="710" fill="#9d858b" font-size="19">THIS MONTH</text><text x="435" y="782" fill="#fff4f5" font-size="54" font-weight="700">48</text><text x="795" y="710" fill="#9d858b" font-size="19">STRONG BONDS</text><text x="795" y="782" fill="#fff4f5" font-size="54" font-weight="700">12</text><text x="1155" y="710" fill="#9d858b" font-size="19">CONSISTENCY</text><text x="1155" y="782" fill="#fff4f5" font-size="54" font-weight="700">86%</text></g>
+</svg>
